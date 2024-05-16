@@ -1,0 +1,17 @@
+Q_1 : Describe a key project you have worked on or are currently working on.
+
+ans:- 
+
+
+One of the key projects I have worked on is a web-based application for managing patient-doctor appointments and medical records using Django framework.
+
+Project Overview:
+The aim of this project was to create a centralized platform where patients and doctors could efficiently schedule appointments, manage medical records, and communicate securely. The application needed to be user-friendly, secure, and scalable to accommodate future enhancements.
+
+Key Features:
+1. User Authentication: Implemented user authentication and authorization features to ensure secure access to patient and doctor accounts.
+2. Appointment Booking: Developed a calendar-based interface for scheduling appointments, allowing patients to select available time slots and specify the purpose of the visit.
+3. Medical Record Management: Designed a database schema to store and manage patient medical records, including diagnoses, treatments, prescriptions, and lab results.
+4. Messaging System: Integrated a secure messaging system to facilitate communication between patients and doctors, enabling them to exchange messages, share files, and receive notifications.
+5. Admin Dashboard: Created an admin dashboard with role-based access control to manage user accounts, appointments, and medical records.
+6. Search and Filtering: Implemented search and filtering functionalities to enable users to quickly find appointments, patients, or medical records based on various criteria.

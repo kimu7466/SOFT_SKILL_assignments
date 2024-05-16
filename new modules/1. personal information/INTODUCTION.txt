@@ -1,0 +1,5 @@
+Q_1 : Briefly introduce yourself: name, educational background, and current status (student or professional).
+
+ans:- 
+
+My name is Imroz Khan. I am 25 years old and I hold a bachelor's degree in electrical engineering. I have transitioned into the IT sector and recently completed training at TOPS Technologies, where I learned high-level programming languages such as C, C++, and Python. I also gained experience with frameworks like Django and Django REST Framework, and have worked with MySQL for database management and GitHub for version control. Currently, I am seeking professional opportunities in the IT field.

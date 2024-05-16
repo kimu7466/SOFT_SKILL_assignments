@@ -1,0 +1,21 @@
+Q_2 : Mention any relevant courses, certifications, or resources you are pursuing.
+
+ans :-
+
+I am actively pursuing several courses and certifications to enhance my skills and stay updated with the latest technologies. Here are some key areas I am focusing on:
+
+1. Advanced Python Programming: I am taking advanced courses to deepen my understanding of Python and its applications in web development and data science.
+
+2. Frontend Development with React.js: I am currently enrolled in a course on React.js to build dynamic and responsive user interfaces. This includes learning about state management, hooks, and integrating React with backend services.
+
+3. Web Development with Django: I am continuing my learning in Django and Django REST Framework to build robust backend services and APIs.
+
+4. Database Management: I am enhancing my skills in MySQL and exploring other database technologies like PostgreSQL and MongoDB.
+
+5. Cloud Computing: I plan to obtain certifications in cloud platforms such as AWS or Google Cloud to understand cloud infrastructure and services.
+
+6. Version Control with Git and GitHub: I am improving my proficiency with Git and GitHub for version control and collaboration on projects.
+
+7. Online Resources and Communities: I regularly utilize platforms like Coursera, edX, Udacity, and Pluralsight for coursework. Additionally, I participate in online tech communities and forums such as Stack Overflow and GitHub to learn from and contribute to the developer community.
+
+By pursuing these courses and certifications, I am equipping myself with a comprehensive skill set that includes both frontend and backend development, ensuring that I can effectively contribute to full-stack projects.
