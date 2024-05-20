@@ -1,8 +1,7 @@
-
 3). Explain your project.
-
-"
-Ans. Never start explaining your project in terms of admin and customer module. Start with the name,
-purpose, duration and your role in the project. Then explain the technical tools used and the features
-you had implemented different from other similar projects. 
-"
+""
+I have worked on a few projects and the major ones are as follows.
+I made a web-based application using Django to manage patients, doctors, different types of reports, and their payment details. and Performed complete CRUD operations on them.
+another one is an online appointments management system using Django and on this platform, patients and doctors sign up and manage their appointments with each other.
+and 2 projects were desktop applications using the Tkinter library and performed complete CRUD operations for HOTEL MANAGEMENT SYSTEM and HOSPITAL MANAGEMENT SYSTEM.
+""

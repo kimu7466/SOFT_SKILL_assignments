@@ -1,25 +1,5 @@
-My name is Imroz Khan, I am 25 And I am from Banswara Raj.
-
-I have done my graduation with a b. Tech with electrical engineering from RTU KOTA
-And
-currently pursuing IT TRAINING in FULL STACK DEVELOPMENT from tops technologies surat.
-
-There are multiple reasons for switching my career to IT
-
-The most important reason is it is my field of interest 
-
-It took time for me to realize this. 
-
-If I had realized that earlier I would have done my b tech in computer science. 
-
-But there is a saying in Hindi "Jab jago tab Savera" 
-
-In English, it's like
- "It's morning, whenever you wake up " 
-
-So it means "if you have to do something or want to do something you can start that anytime" 
-
-
-
-And it's not too late for me yet. 
-So I decided to change my ca…
+1). Introduce yourself.
+""
+My name is Imroz Khan, I am 25, and I hold a bachelor's degree in electrical engineering. 
+I wanted to switch careers to the IT sector. I heard about this institute named TOPS Technologies I have learned high-level languages like c, c++, and Python, and I have also worked with frameworks such as Django, Django RESTframwork, and I used MySQL for database management, and have knowledge of version control systems such as Github.
+""

@@ -1,7 +1,6 @@
 16). Where do you see yourself five years down the line?
 
-"
-Ans. The best answer to this question could be given once you find out the career path following the
-position you are applying for. You may aim at reaching a respectable position where you can take more
-responsibilities and accept more challenges and lead a team. 
-"
+""
+in the next five years, I see myself as a proficient Python developer/full-stack developer, 
+and being enough expert to earn the trust of the organization to see me as a team leader a project manager, or a well-reputed designation in the organization.
+""
