@@ -1,0 +1,8 @@
+
+3). Explain your project.
+
+"
+Ans. Never start explaining your project in terms of admin and customer module. Start with the name,
+purpose, duration and your role in the project. Then explain the technical tools used and the features
+you had implemented different from other similar projects. 
+"
